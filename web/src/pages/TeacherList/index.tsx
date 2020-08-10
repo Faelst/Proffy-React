@@ -9,8 +9,8 @@ import Select from "../../components/Select";
 import api from '../../services/api';
 
 export default function TeacherList() {
+  
   const [teachers, setTeachers] = useState([]);
-
   const [subject, setSubject] = useState('');
   const [week_day, setWeek_day] = useState('');
   const [time, setTime] = useState('');

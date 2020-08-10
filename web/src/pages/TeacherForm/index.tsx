@@ -54,7 +54,7 @@ function TeacherForm(){
         schedule: scheduleItems
     }).then(() => {
         alert('All done!');
-        history.push('/');
+        history.push('/study');
     }).catch(() =>{
         alert('Error');
     })
