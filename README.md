@@ -2,10 +2,6 @@
   <img src="https://github.com/RafaelGoulartB/Proffy/raw/master/.github/logo.png" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/bprofiro/assets/blob/master/Proffyweb.png"/>
-</p>
-
 
 ## Sobre o Projeto
 
